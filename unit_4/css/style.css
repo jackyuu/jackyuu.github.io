@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Pontano+Sans');
+
+
+body {
+
+	background-color: black;
+font-family: 'Pontano Sans', sans-serif;
+}
+
+h1 {
+
+	color: white;
+}
+
+p {
+	font-style: italic;
+}
+
+title {
+
+font-family: 'Pontano Sans', sans-serif;
+
+}
