@@ -4,7 +4,7 @@
 
 body {
 
-	background-color: black;
+	background-color: grey;
 font-family: 'Open Sans', sans-serif;
 }
 
@@ -14,8 +14,12 @@ h1 {
 }
 
 p {
-	font-style: italic;
 	color: white;
+}
+
+#slogan
+{
+	font-style: italic;
 }
 
 title {
