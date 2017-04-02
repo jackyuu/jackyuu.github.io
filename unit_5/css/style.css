@@ -1,13 +1,16 @@
 
-h1{
+header{
   text-transform: uppercase;
  border-bottom: 4px solid black;
   display: inline-block;
 
-  background-color: blue;
+  background-color: #FFED74;
 }
 
+nav {
 
+	background-color: #E8C66A;
+}
 
 
 ul{
@@ -19,4 +22,5 @@ ul{
 footer{
   text-align: center;
   padding: 1em 0;
+  background-color: #FF957E;
 }
