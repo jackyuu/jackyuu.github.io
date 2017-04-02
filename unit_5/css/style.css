@@ -3,6 +3,8 @@ h1{
   text-transform: uppercase;
  border-bottom: 4px solid black;
   display: inline-block;
+
+  background-color: blue;
 }
 
 
